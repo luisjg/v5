@@ -1,6 +1,6 @@
 {
   "luisjg": {
-    "title": "luisjg.io",
+    "title": "luisjg.dev",
     "description": "Single Page Web Application portfolio.",
     "details": "Designed and implemented by yours truly, this single page web application serves as a playground to hone my development skills.",
     "tech_stack": "The SPWA is written in Vuejs, Bulma CSS, and Momentjs. It follows ARIA accessibility guidelines as well as utilizing a colorblind friendly color pallette.",
@@ -9,7 +9,7 @@
       "Lead Designer",
       "Lead Maintainer"
     ],
-    "url": "https://luisjg.io",
+    "url": "https://luisjg.dev",
     "image": "https://res.cloudinary.com/dfhliq7vp/image/upload/v1547608037/luisjg/site.jpg"
   },
   "calstatepays": {
