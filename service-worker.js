@@ -1,11 +1,11 @@
 const staticCacheName = 'luisjg-site-static-v1';
 const dynamicCacheName = 'luisjg-site-dynamic-v1';
 const assets = [
-    '/',
-    '/index.html',
-    '/json/education.json',
-    '/json/experience.json',
-    '/json/work.json',
+    './',
+    './index.html',
+    './json/education.json',
+    './json/experience.json',
+    './json/work.json',
     'https://res.cloudinary.com/dfhliq7vp/image/upload/v1547432443/luisjg/profile.jpg',
     'https://res.cloudinary.com/dfhliq7vp/image/upload/v1547432623/luisjg/made-with-bulma.e0eab74.png',
     'https://cdn.buttercms.com/PGJPyIwaQ2KnOA8UyKfH',
